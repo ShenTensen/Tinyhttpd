@@ -1,3 +1,13 @@
+Powerful Shen
+```
+1. 使用的是Macbook；
+2. 根据Perl安装的位置修改.cgi文件；
+
+
+```
+以上是ShenTensen(shentensen@outlook.com)添加的内容。
+---
+
 A mirror for tinyhttpd(Tinyhttpd非官方镜像,Fork自[sourceForge](https://sourceforge.net/projects/tiny-httpd/),仅供学习)
 
 测试CGI时需要本机安装PERL，同时安装perl-cgi
